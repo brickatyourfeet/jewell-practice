@@ -1,4 +1,4 @@
-#### [⇐ Previous](studying_learning.md) | [README ⇒](README.md)
+#### [⇐ Previous](studying_learning.md) | [STRETCH: Unix Commands ⇒](unix.md)
 
 ## Bonus
 
@@ -43,7 +43,7 @@ Flashcards are an effective learning drill that aids in the memorization of new 
 
 #### JavaScript
 
-If there's one thread that binds the entire in-person training together it's JavaScript. Students who enter the program strong in JavaScript are often the ones leaving with a job right out of the gate. That's why we highly encourage you to finish the **JavaScript for Kids** book. The remaining chapters will teach you how to build fun, 2-D games for the browser from scratch. For the uninitiated, games are by far the most sophisticated type of application you can build. Plus, students often like to make a browser-based game for their first quarter project. And with a few under your belt, you'll definitely have an easier time thinking up and executing on an game idea, if that's the route you decide to take.
+We highly encourage you to finish the **JavaScript for Kids** book. The remaining chapters will teach you how to build fun, 2-D games for the browser from scratch. For the uninitiated, games are by far the most sophisticated type of application you can build. Plus, students often like to make a browser-based game for their first quarter project. And with a few under your belt, you'll definitely have an easier time thinking up and executing on an game idea, if that's the route you decide to take.
 
 [JavaScript for Kids][javascript-kids]
 
@@ -81,4 +81,4 @@ There are tons of keyboard of shortcuts to learn. For that, look into **shortcut
 
 [shortcutFoo]: https://www.shortcutfoo.com/
 
-#### [⇐ Previous](studying_learning.md) | [README ⇒](README.md)
+#### [⇐ Previous](studying_learning.md) | [STRETCH: Unix Commands ⇒](unix.md)

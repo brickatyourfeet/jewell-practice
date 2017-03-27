@@ -1,4 +1,4 @@
-#### [⇐ Previous](html_css.md) | [Next ⇒](javascript.md)
+#### [⇐ Previous](css.md) | [Next ⇒](javascript.md)
 
 ## Algebra Basics
 
@@ -127,6 +127,6 @@ Take a moment to think about how you would answer the following questions. Then 
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the basics of algebra. You're ready to start building a dynamic website.
 
-#### [⇐ Previous](html_css.md) | [Next ⇒](javascript.md)
+#### [⇐ Previous](css.md) | [Next ⇒](javascript.md)
 
 [math-antics]: https://www.youtube.com/watch?v=NybHckSEQBI&index=1&list=PLUPEBWbAHUszT_GebJK23JHdd_Bss1N-G

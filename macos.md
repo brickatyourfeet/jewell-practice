@@ -1,4 +1,4 @@
-#### [⇐ README](README.md) | [Next ⇒](shortcuts.md)
+#### [⇐ Previous](studying_learning.md) | [Next ⇒](shortcuts.md)
 
 ## macOS
 
@@ -73,6 +73,6 @@ Take a moment to think about how you would answer the following questions. Then 
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the graphical interface of macOS. You're well on your way to becoming a professional web developer.
 
-#### [⇐ README](README.md) | [Next ⇒](shortcuts.md)
+#### [⇐ Previous](studying_learning.md) | [Next ⇒](shortcuts.md)
 
 [learn-macos]: https://www.youtube.com/watch?v=wSPisJXyjso

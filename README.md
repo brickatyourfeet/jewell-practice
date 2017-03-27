@@ -1,4 +1,4 @@
-#### [⇐ Previous](bonus.md) | [Next ⇒](macos.md)
+#### [⇐ Previous](bonus.md) | [Next ⇒](studying_and_learning.md)
 
 ## Galvanize Web Development Immersive Precourse
 
@@ -18,17 +18,23 @@ Though it might take you less time, please allocate at least 45 hours to complet
 
 | Chapters                                                | Duration           |
 |---------------------------------------------------------|--------------------|
+| [Chapter 0: Studying & Learning](studying_learning.md)  | About 2.5 hours    |
 | [Chapter 1: macOS](macos.md)                            | About 2 hours      |
 | [Chapter 2: Keyboard Shortcuts](shortcuts.md)           | About 30 minutes   |
 | [Chapter 3: Google Chrome](chrome.md)                   | About 30 minutes   |
 | [Chapter 4: Typing](typing.md)                          | About 30 minutes   |
 | [Chapter 5: Slack](slack.md)                            | About 1 hour       |
 | [Chapter 6: Atom](atom.md)                              | About 1 hour       |
-| [Chapter 7: HTML & CSS](html_css.md)                    | About 20 hours     |
-| [Chapter 8: Algebra Basics](algebra.md)                 | About 2 hours      |
-| [Chapter 9: JavaScript](javascript.md)                  | About 15 hours     |
-| [Chapter 10: Studying & Learning](studying_learning.md) | About 2.5 hours    |
-| [Chapter 11: Bonus](bonus.md)                           | Unlimited          |
+| [Chapter 7: HTML](html.md)                              | About 7 hours      |
+| [Chapter 8: CSS](css.md)                                | About 7 hours      |
+| [Chapter 9: Algebra Basics](algebra.md)                 | About 2 hours      |
+| [Chapter 10: JavaScript](javascript.md)                 | About 15 hours     |
+| [Chapter 11: jQuery](jquery.md)                         | About 4 hours      |
+| [Chapter 12: Personal Site](personal_site.md)						| About 6 hours      |
+| [Chapter 13: Bonus](bonus.md)                           | Unlimited          |
+| [STRETCH - Chapter 14: Unix Commands](unix.md)		      | About 1.5 hours    |
+| [STRETCH - Chapter 15: git and Github](git.md)    			| About 1.5 hours    |
+
 
 ## Prerequisites
 
@@ -52,7 +58,7 @@ While the title may suggest otherwise, this book is for anyone who wants to lear
 
 You can pick up JavaScript for Kids from a number of bookstores, though you'll receive a **40% discount** by using the `JAVASCRIPTKIDS40` coupon code when purchasing directly through [No Starch Press][javascript-kids].
 
-#### [⇐ Previous](bonus.md) | [Next ⇒](macos.md)
+#### [⇐ Previous](bonus.md) | [Next ⇒](studying_and_learning.md)
 
 [contact]: mailto:fs.all@galvanize.com
 [genius]: https://www.apple.com/retail/geniusbar/

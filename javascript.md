@@ -1,4 +1,4 @@
-#### [⇐ Previous](algebra.md) | [Next ⇒](studying_learning.md)
+#### [⇐ Previous](algebra.md) | [Next ⇒](jQuery.md)
 
 ## JavaScript
 
@@ -31,7 +31,7 @@ Start off by creating a `hangman.html` file and embed the author's blueprint cod
 
 Run the program often to make sure everything works as you expect. When you're finished, we'd like to take a look at your work. Please use the following steps to submit your game.
 
-1. On GitHub, navigate to your fork of this repo (which you created in Section 6 HTML/CSS).
+1. On GitHub, navigate to your fork of this repo (which you created in Section 6 HTML).
 	* Your fork will have the URL with your username in it:
 	`https://github.com/your_username_here/fs-precourse`
 
@@ -49,7 +49,6 @@ Run the program often to make sure everything works as you expect. When you're f
 
 Congratulations! By completing the assessment, you've demonstrated a high degree of discipline and familiarity with JavaScript. Take a moment to congratulate yourself for all of your hard work. :)
 
-#### [⇐ Previous](algebra.md) | [Next ⇒](studying_learning.md)
+#### [⇐ Previous](algebra.md) | [Next ⇒](jQuery.md)
 
 [javascript-kids]: https://www.nostarch.com/jsforkids
-[upload]: https://github.com/gSchool/fs-precourse/upload/hangman/

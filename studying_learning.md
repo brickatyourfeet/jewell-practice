@@ -1,4 +1,4 @@
-#### [⇐ Previous](javascript.md) | [Next ⇒](bonus.md)
+#### [⇐ README](README.md) | [Next ⇒](macos.md)
 
 ## Studying & Learning
 
@@ -118,4 +118,4 @@ Take a moment to think about how you would answer the following questions. Then 
 
 Congratulations! By completing the assessment, you've demonstrated a high degree of discipline and competency with effective studying and learning techniques. You've certainly come a long way!
 
-#### [⇐ Previous](javascript.md) | [Next ⇒](bonus.md)
+#### [⇐ README](README.md) | [Next ⇒](macos.md)
