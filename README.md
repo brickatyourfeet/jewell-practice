@@ -1,5 +1,3 @@
-#### [⇐ Previous](bonus.md) | [Next ⇒](macos.md)
-
 ## Galvanize Web Development Immersive Precourse
 
 Welcome to Galvanize's Web Development Immersive!
@@ -52,8 +50,5 @@ While the title may suggest otherwise, this book is for anyone who wants to lear
 
 You can pick up JavaScript for Kids from a number of bookstores, though you'll receive a **40% discount** by using the `JAVASCRIPTKIDS40` coupon code when purchasing directly through [No Starch Press][javascript-kids].
 
-#### [⇐ Previous](bonus.md) | [Next ⇒](macos.md)
-
-[contact]: mailto:fs.all@galvanize.com
 [genius]: https://www.apple.com/retail/geniusbar/
 [javascript-kids]: https://www.nostarch.com/jsforkids

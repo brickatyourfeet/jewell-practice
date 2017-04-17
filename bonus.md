@@ -1,5 +1,3 @@
-#### [⇐ Previous](studying_learning.md) | [README ⇒](README.md)
-
 ## Bonus
 
 **Duration:** Unlimited
@@ -80,5 +78,3 @@ There are tons of keyboard of shortcuts to learn. For that, look into **shortcut
 [![](images/shortcutFoo.png)][shortcutFoo]
 
 [shortcutFoo]: https://www.shortcutfoo.com/
-
-#### [⇐ Previous](studying_learning.md) | [README ⇒](README.md)

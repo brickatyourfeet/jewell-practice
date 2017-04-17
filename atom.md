@@ -1,5 +1,3 @@
-#### [⇐ Previous](slack.md) | [Next ⇒](html_css.md)
-
 ## Atom
 
 **Duration:** About 1 hour
@@ -62,8 +60,6 @@ Take a moment to think about how you would answer the following questions. Then 
 ### Conclusion
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Atom. You're now ready to build a website.
-
-#### [⇐ Previous](slack.md) | [Next ⇒](html_css.md)
 
 [atom]: https://atom.io/
 [learn-atom]: https://www.youtube.com/watch?v=ErpALj-8l5M&list=PLl4aJLa4PetCQcCEL0FvCh3L1SVf-nNSU

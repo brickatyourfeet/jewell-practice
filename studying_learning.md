@@ -1,5 +1,3 @@
-#### [⇐ Previous](javascript.md) | [Next ⇒](bonus.md)
-
 ## Studying & Learning
 
 **Duration:** About 2.5 hours
@@ -117,5 +115,3 @@ Take a moment to think about how you would answer the following questions. Then 
 ### Conclusion
 
 Congratulations! By completing the assessment, you've demonstrated a high degree of discipline and competency with effective studying and learning techniques. You've certainly come a long way!
-
-#### [⇐ Previous](javascript.md) | [Next ⇒](bonus.md)
