@@ -16,33 +16,13 @@
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/javascript.md
     - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/LICENSE
-    - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/macos.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/README.md
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/sequence.yml
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/shortcuts.md
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/slack.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/algebra.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/atom.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/chrome.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/macos.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/shortcuts.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/slack.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/studying_learning.md
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/studying_learning.md
     - Type: Lesson
@@ -69,3 +49,21 @@
       URL: https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/05_Errors.md
     - Type: Lesson
       URL: https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/06_Strings.md
+- ContainerType: Unit
+  Title: Solutions
+  Description: https://github.com/gSchool/fs-precourse/blob/learn/units/solutions.md
+  Contents:
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/algebra.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/atom.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/chrome.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/macos.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/shortcuts.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/slack.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/studying_learning.md
