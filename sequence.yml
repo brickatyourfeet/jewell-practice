@@ -4,25 +4,23 @@
   Description: 'https://github.com/gSchool/fs-precourse/blob/learn/units/dev-environment.md'
   Contents:
     - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/algebra.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/atom.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/bonus.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/chrome.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/html_css.md
-    - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/macos.md
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/shortcuts.md
     - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/slack.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/studying_learning.md
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/chrome.md
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/typing.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/slack.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/atom.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/html_css.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/algebra.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/studying_learning.md
 - ContainerType: Unit
   Title: Intro to JavaScript
   Description: https://github.com/gSchool/fs-precourse/blob/learn/units/javascript.md
@@ -63,3 +61,15 @@
       URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/slack.md
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/solutions/studying_learning.md
+- ContainerType: Unit
+  Title: Bonus
+  Description: https://github.com/gSchool/fs-precourse/blob/learn/units/bonus.md
+  Contents:
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/bonus-javascript.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/bonus-html.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/bonus-learning.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/fs-precourse/blob/learn/bonus-typing.md

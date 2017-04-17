@@ -10,24 +10,6 @@ To help you prepare, we've developed this precourse for you to complete before t
 
 The Galvanize Web Development Immersive Team
 
-## Table of Contents
-
-Though it might take you less time, please allocate at least 45 hours to complete the precourse. Each chapter you complete will yield a huge return on your investment. Also, don't panic if you find yourself spending significantly more time than the recommended duration. Just [reach out][contact] and we'll help you get unstuck.
-
-| Chapters                                                   | Duration           |
-|------------------------------------------------------------|--------------------|
-| [Chapter 1: macOS](../macos.md)                            | About 2 hours      |
-| [Chapter 2: Keyboard Shortcuts](../shortcuts.md)           | About 30 minutes   |
-| [Chapter 3: Google Chrome](../chrome.md)                   | About 30 minutes   |
-| [Chapter 4: Typing](../typing.md)                          | About 30 minutes   |
-| [Chapter 5: Slack](../slack.md)                            | About 1 hour       |
-| [Chapter 6: Atom](../atom.md)                              | About 1 hour       |
-| [Chapter 7: HTML & CSS](../html_css.md)                    | About 20 hours     |
-| [Chapter 8: Algebra Basics](../algebra.md)                 | About 2 hours      |
-| [Chapter 9: JavaScript](../javascript.md)                  | About 15 hours     |
-| [Chapter 10: Studying & Learning](../studying_learning.md) | About 2.5 hours    |
-| [Chapter 11: Bonus](../bonus.md)                           | Unlimited          |
-
 ## Prerequisites
 
 This precourse assumes you're proficient at reading, writing, and listening to English. It also assumes your computer is up to the task of coding, which means that it:
