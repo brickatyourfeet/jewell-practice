@@ -1,5 +1,3 @@
-#### [⇐ Previous](algebra.md) | [Next ⇒](studying_learning.md)
-
 ## JavaScript
 
 **Duration:** About 15 hours
@@ -13,8 +11,6 @@ Our Pre-Course is a series of articles about programming with JavaScript, and Ja
 ### Conclusion
 
 Congratulations! By completing the assessment, you've demonstrated a high degree of discipline and familiarity with JavaScript. Take a moment to congratulate yourself for all of your hard work. :)
-
-#### [⇐ Previous](algebra.md) | [Next ⇒](studying_learning.md)
 
 [javascript-kids]: https://www.nostarch.com/jsforkids
 [upload]: https://github.com/gSchool/fs-precourse/upload/hangman/

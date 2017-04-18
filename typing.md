@@ -1,5 +1,3 @@
-#### [⇐ Previous](chrome.md) | [Next ⇒](slack.md)
-
 ## Typing
 
 **Duration:** About 30 minutes
@@ -21,5 +19,3 @@ Take the test a couple of times and write down your average words per minute for
 ### Conclusion
 
 Congratulations! By completing this exercise, you've demonstrated a high degree of discipline and competency with quickly typing common English words. Continue improving your typing speed by periodically retaking this test.
-
-#### [⇐ Previous](chrome.md) | [Next ⇒](slack.md)
