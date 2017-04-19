@@ -4,7 +4,7 @@
 
 [Google Chrome][google-chrome] is a web browser that's fast and secure. Though web developers use every browser to test their creations, many choose Chrome as their primary one. It has a minimalistic user interface, supports the latest web standards, has great built-in developer tools, and is customizable with extensions.
 
-In this chapter, your objective is to demonstrate competency with Google Chrome. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with Chrome, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
+In this lesson, your objective is to demonstrate competency with Google Chrome. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this lesson. If you're already familiar with Chrome, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
 If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this video once you obtain it.
 

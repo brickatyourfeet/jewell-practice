@@ -4,7 +4,7 @@
 
 Hyper Text Markup Language, or **HTML**, is a language for describing the structure and content of a web page with syntax like `<p>Hello world</p>`. And Cascading Style Sheets, or **CSS**, is a language for describing the style of a web page with syntax like `p { color: orange; }`. Together, they are two essential technologies for web development. When mastered, web developers tend to prefer writing HTML and CSS code by hand over using tools like Adobe Dreamweaver because it gives them complete control over how web pages are structured and styled.
 
-In this chapter, your objective is to demonstrate competency with HTML and CSS. To complete this objective, please follow along with the tutorial found below and complete the assessment at the end of this chapter. If you're already familiar with HTML and CSS, you may be able to complete the assessment without reading the tutorial. Though, you may also learn a trick or two from it.
+In this lesson, your objective is to demonstrate competency with HTML and CSS. To complete this objective, please follow along with the tutorial found below and complete the assessment at the end of this lesson. If you're already familiar with HTML and CSS, you may be able to complete the assessment without reading the tutorial. Though, you may also learn a trick or two from it.
 
 As you read through the tutorial, type out every code sample by hand that you come across. Then try to run the code in a web browser like Google Chrome. Only copy-and-paste code as a last resort if you can't get it to work correctly.
 
@@ -77,7 +77,7 @@ When it comes to style, take this opportunity to present your personality to us 
 - Spice up to your content with coloration properties like `color`, `background-color`, and `background-image`.
 - And so on.
 
-You're free to get as fancy as you want, but don't feel like you have to go overboard. You're also free to add interactivity with JavaScript, but it's not a requirement for this assessment. As you work, keep an eye on how much time has elapsed. There are a few more chapters in this precourse, like one dedicated to JavaScript, that are equally important.
+You're free to get as fancy as you want, but don't feel like you have to go overboard. You're also free to add interactivity with JavaScript, but it's not a requirement for this assessment. As you work, keep an eye on how much time has elapsed. There are a few more lessons in this precourse, like one dedicated to JavaScript, that are equally important.
 
 #### Valid Syntax
 

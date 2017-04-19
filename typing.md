@@ -4,7 +4,7 @@
 
 Being proficient in typing is incredibly important yet often overlooked. Being able to type faster means adding features and fixing bugs faster. The **Typing Speed Test** is a traditional typing test that measures your typing speed of common English words which are often used as variable and function names in web development.
 
-In this chapter, your objective is to demonstrate competency with quickly typing common English words. To complete this objective, please open up the Typing Speed Test in Chrome and complete the self-assessment at the end of this chapter.
+In this lesson, your objective is to demonstrate competency with quickly typing common English words. To complete this objective, please open up the Typing Speed Test in Chrome and complete the self-assessment at the end of this lesson.
 
 [Typing Speed Test][typing_speed_test]
 

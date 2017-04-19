@@ -4,7 +4,7 @@
 
 For many incoming students, their studying and learning techniques are a bit rusty. Maybe it's been a while since they've been in school or maybe they just never had anyone to show them good techniques. The **Effective Studying and Learning** video series will help you develop academic skills used by highly successful students. With some practice, your ability to retain and apply complex, web development concepts will drastically improve.
 
-In this chapter, your objective is to demonstrate competency with studying and learning techniques. To complete this objective, please follow along with the videos found below and complete the self-assessment at the end of this chapter. If you're already familiar with studying and learning techniques, you may be able to complete the self-assessment without watching the videos. Though, you may also learn a trick or two from it.
+In this lesson, your objective is to demonstrate competency with studying and learning techniques. To complete this objective, please follow along with the videos found below and complete the self-assessment at the end of this lesson. If you're already familiar with studying and learning techniques, you may be able to complete the self-assessment without watching the videos. Though, you may also learn a trick or two from it.
 
 [Effective Studying and Learning][studying-learning]
 

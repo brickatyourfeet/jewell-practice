@@ -64,7 +64,7 @@ The best way to learn something is to teach it. It's a great form of active stud
 
 SQ3R is a reading comprehension method named for its five steps: survey, question, read, recite, and review.
 
-- Glance through the chapter or article in order to identify headings, sub-headings and other outstanding features in the text.
+- Glance through the lesson or article in order to identify headings, sub-headings and other outstanding features in the text.
 - Formulate questions about the content of the reading.
 - Begin reading actively in order to answer the questions previously raised.
 - In your own words, identify major points either in written form or orally.
@@ -78,7 +78,7 @@ Facts, unlike concepts, are harder to tie meaning to. Instead of turning to basi
 
 ##### What is the outline method?
 
-The outline method is a note-taking system based on bullet points and hierarchy and is the most traditional method. You start by creating headers for the main topics of the lecture/chapter/article and then create subheaders, bullet points under those subheaders, etc. If you're using the outline method, it is easier to go back and fill in details if you're taking notes on a computer.
+The outline method is a note-taking system based on bullet points and hierarchy and is the most traditional method. You start by creating headers for the main topics of the lecture/lesson/article and then create subheaders, bullet points under those subheaders, etc. If you're using the outline method, it is easier to go back and fill in details if you're taking notes on a computer.
 
 ##### What is the Cornell method?
 
