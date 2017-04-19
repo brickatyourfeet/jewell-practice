@@ -1,4 +1,4 @@
-## macOS
+# macOS
 
 **Duration:** About 2 hours
 

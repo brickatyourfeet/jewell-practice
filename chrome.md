@@ -1,4 +1,4 @@
-## Google Chrome
+# Google Chrome
 
 **Duration:** About 30 minutes
 
