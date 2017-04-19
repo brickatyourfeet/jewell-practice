@@ -57,9 +57,10 @@ Let's get some practice using rich media with [Lesson 9: Adding Media][31]. Afte
 2. Set the height and width of each image to **32 x 44 pixels**.
 
 ### Push to Github
+
 When you're finished, we'd like to take a look at your work. Please use the following steps to submit your website.
 
-1. Scroll to the top of this page and click `Fork`.
+1. Go to https://github.com/gSchool/wdi-precourse-drills and click `Fork`.
 	* You may need to click your username to create the `Fork` on your account.
 	* `Forking` is a github concept that allows you to make an exact copy of a repository on your own account.
 
@@ -76,6 +77,8 @@ When you're finished, we'd like to take a look at your work. Please use the foll
 
 1. On the pull request page, click **Create pull request** and then after the page loads, click  **Create pull request** again
 	* This will allow the galvanize instructors to see your uploaded files
+
+![](images/github_upload.gif)
 
 ## Conclusion
 
