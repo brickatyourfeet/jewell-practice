@@ -10,7 +10,7 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 [Intro to Google Chrome][intro-to-chrome]
 
-[![](images/chrome.png)][intro-to-chrome]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XphOoqHzTC0" frameborder="0" allowfullscreen></iframe>
 
 ### Self-assessment
 
@@ -30,7 +30,29 @@ Take a moment to think about how you would answer the following questions. Then 
 
 ### Conclusion
 
-Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Google Chrome. You're making great progress.
+### !challenge
+* type: multiple-choice
+* id: 84c3656d-599e-40a8-9fd8-26d0443f9f26
+* title: Chrome
+
+##### !question
+### Did you complete this lesson?
+
+Please answer honestly 🙂  Having accurate data going into class can help make your experience better!
+##### !end-question
+
+##### !options
+* Yes
+* No
+##### !end-options
+
+##### !answer
+Yes
+##### !end-answer
+
+##### !explanation
+🎊 Congratulations! 🎉  By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Google Chrome. You're making great progress.
+##### !end-explanation
+### !end-challenge
 
 [google-chrome]: https://www.google.com/chrome/browser/desktop/
-[intro-to-chrome]: https://www.youtube.com/watch?v=XphOoqHzTC0&t=15
