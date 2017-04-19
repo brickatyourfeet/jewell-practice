@@ -82,7 +82,25 @@ When you're finished, we'd like to take a look at your work. Please use the foll
 
 ## Conclusion
 
-Congratulations! By completing this section, you've demonstrated a high degree of discipline and familiarity with HTML. Take a moment to congratulate yourself for all of your hard work. :)
+### !challenge
+* type: project
+* id: 547b2928-20e6-466b-a40c-06226133822e
+* title: HTML
+
+##### !question
+### Enter the link to your PR
+
+Copy the URL to your Pull Request and paste it below
+##### !end-question
+
+##### !placeholder
+https://github.com/gSchool/wdi-precourse-drills/pull/22
+##### !end-placeholder
+
+##### !explanation
+🎉 Congratulations! 🎊 By completing this section, you've demonstrated a high degree of discipline and familiarity with HTML. Take a moment to congratulate yourself for all of your hard work. :)
+##### !end-explanation
+### !end-challenge
 
 [learn-html-css]: http://learn.shayhowe.com/html-css/building-your-first-web-page/
 

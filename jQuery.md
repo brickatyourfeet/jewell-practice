@@ -22,14 +22,35 @@ More practice is always beneficial. Code Academy's [jQuery Track][31] will suppl
 
 # Conclusion
 
-Congratulations! By completing this section, you've demonstrated a high degree of discipline and familiarity with jQuery. Take a moment to congratulate yourself for all of your hard work. :)
+### !challenge
+* type: multiple-choice
+* id: 30ec1726-943a-4922-83e6-9b0c705e84d0
+* title: jQuery
+
+##### !question
+### Did you complete this lesson?
+
+Please answer honestly 🙂  Having accurate data going into class can help make your experience better!
+##### !end-question
+
+##### !options
+* Yes
+* No
+##### !end-options
+
+##### !answer
+Yes
+##### !end-answer
+
+##### !explanation
+🎊 Congratulations! 🎉  By completing this section, you've demonstrated a high degree of discipline and familiarity with jQuery. Take a moment to congratulate yourself for all of your hard work. :)
 
 You'll now apply everything you've learned in the Personal Site.
+##### !end-explanation
+### !end-challenge
 
 [1]: #the-value-of-jquery
-
 [2]: #try-jquery
 [21]: http://try.jquery.com/
-
 [3]: #practice-with-jquery
 [31]: http://www.codecademy.com/en/tracks/jquery

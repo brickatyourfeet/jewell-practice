@@ -21,17 +21,17 @@
   Title: Web Programming Fundamentals
   Description: https://github.com/gSchool/fs-precourse/blob/learn/units/web-programming.md
   Contents:
-    - Type: Lesson
+    - Type: Exercise
       URL: https://github.com/gSchool/fs-precourse/blob/learn/html.md
-    - Type: Lesson
+    - Type: Exercise
       URL: https://github.com/gSchool/fs-precourse/blob/learn/css.md
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/algebra.md
-    - Type: Lesson
+    - Type: Exercise
       URL: https://github.com/gSchool/fs-precourse/blob/learn/javascript.md
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/jQuery.md
-    - Type: Lesson
+    - Type: Exercise
       URL: https://github.com/gSchool/fs-precourse/blob/learn/personal_site.md
 - ContainerType: Unit
   Title: JavaScript

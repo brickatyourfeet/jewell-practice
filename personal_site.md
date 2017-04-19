@@ -1,4 +1,4 @@
-## Personal Site
+# Personal Site
 
 **Duration:** About 7 hours
 
@@ -72,7 +72,7 @@ To help you write correct code, we recommend you use a **syntax validator**—a 
 
 When you're finished, we'd like to take a look at your work. Please use the following steps to submit your website.
 
-1. On GitHub, navigate to your fork of this repo (which you created in Section 6 HTML).
+1. On GitHub, navigate to your fork of this repo (which you created in the HTML lesson).
 	* Your fork will have the URL with your username in it:
 	`https://github.com/your_username_here/wdi-precourse-drills`
 
@@ -86,4 +86,22 @@ When you're finished, we'd like to take a look at your work. Please use the foll
 
 ### Conclusion
 
-Congratulations! By completing the Personal Site, you've demonstrated a high degree of discipline and competency with HTML, CSS and JavaScript. Take a moment to congratulate yourself for all of your hard work. :)
+### !challenge
+* type: project
+* id: 119533da-b0d9-4aeb-a89e-78f1c8fa5dd7
+* title: Personal Site
+
+##### !question
+### Enter the link to your PR
+
+Copy the URL to your Pull Request and paste it below
+##### !end-question
+
+##### !placeholder
+https://github.com/gSchool/wdi-precourse-drills/pull/22
+##### !end-placeholder
+
+##### !explanation
+🎉 Congratulations! 🎊 By completing the Personal Site, you've demonstrated a high degree of discipline and competency with HTML, CSS and JavaScript. Take a moment to congratulate yourself for all of your hard work. :)
+##### !end-explanation
+### !end-challenge

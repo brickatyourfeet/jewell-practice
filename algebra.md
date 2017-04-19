@@ -1,4 +1,4 @@
-## Algebra Basics
+# Algebra Basics
 
 **Duration:** About 2 hours
 
@@ -123,6 +123,29 @@ Take a moment to think about how you would answer the following questions. Then 
 
 ### Conclusion
 
-Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the basics of algebra. You're ready to start building a dynamic website.
+### !challenge
+* type: multiple-choice
+* id: 235569a6-84a3-46a7-8806-f3a5812626f2
+* title: Algebra
+
+##### !question
+### Did you complete this lesson?
+
+Please answer honestly 🙂  Having accurate data going into class can help make your experience better!
+##### !end-question
+
+##### !options
+* Yes
+* No
+##### !end-options
+
+##### !answer
+Yes
+##### !end-answer
+
+##### !explanation
+🎊 Congratulations! 🎉  By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the basics of algebra. You're ready to start building a dynamic website.
+##### !end-explanation
+### !end-challenge
 
 [math-antics]: https://www.youtube.com/watch?v=NybHckSEQBI&index=1&list=PLUPEBWbAHUszT_GebJK23JHdd_Bss1N-G

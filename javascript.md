@@ -45,6 +45,24 @@ Run the program often to make sure everything works as you expect. When you're f
 
 ### Conclusion
 
-Congratulations! By completing the assessment, you've demonstrated a high degree of discipline and familiarity with JavaScript. Take a moment to congratulate yourself for all of your hard work. :)
+### !challenge
+* type: project
+* id: 09987263-9e2c-4d53-acae-c377300ca278
+* title: JavaScript
+
+##### !question
+### Enter the link to your PR
+
+Copy the URL to your Pull Request and paste it below
+##### !end-question
+
+##### !placeholder
+https://github.com/gSchool/wdi-precourse-drills/pull/22
+##### !end-placeholder
+
+##### !explanation
+🎉 Congratulations! 🎊 By completing the assessment, you've demonstrated a high degree of discipline and familiarity with JavaScript. Take a moment to congratulate yourself for all of your hard work. :)
+##### !end-explanation
+### !end-challenge
 
 [javascript-kids]: https://www.nostarch.com/jsforkids

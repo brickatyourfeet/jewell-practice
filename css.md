@@ -54,7 +54,25 @@ When you're finished, we'd like to take a look at your work. Please use the foll
 
 ## Conclusion
 
-Congratulations! By completing this section, you've demonstrated a high degree of discipline and familiarity with CSS. Take a moment to congratulate yourself for all of your hard work. :)
+### !challenge
+* type: project
+* id: 59e8c50c-4ad9-4cb5-b119-0a04587d1f8e
+* title: CSS
+
+##### !question
+### Enter the link to your PR
+
+Copy the URL to your Pull Request and paste it below
+##### !end-question
+
+##### !placeholder
+https://github.com/gSchool/wdi-precourse-drills/pull/22
+##### !end-placeholder
+
+##### !explanation
+🎉 Congratulations! 🎊 By completing this section, you've demonstrated a high degree of discipline and familiarity with CSS. Take a moment to congratulate yourself for all of your hard work. :)
+##### !end-explanation
+### !end-challenge
 
 [1]: #1-of-3-css
 [11]: http://learn.shayhowe.com/html-css/getting-to-know-css/
