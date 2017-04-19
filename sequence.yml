@@ -38,21 +38,21 @@
   Description: https://github.com/gSchool/fs-precourse/blob/learn/units/javascript.md
   Contents:
     - Type: Lesson
-      URL: https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/README.md
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/README.md
     - Type: Lesson
-      URL: https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/00_Introduction_to_JavaScript.md
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/00_Introduction_to_JavaScript.md
     - Type: Lesson
-      URL: https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/01_Variables_and_DataTypes.md
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/01_Variables_and_DataTypes.md
     - Type: Lesson
-      URL: https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/02_Control_Flow.md
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/02_Control_Flow.md
     - Type: Lesson
-      URL: https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/03_Arrays_Objects_Iteration.md
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/03_Arrays_Objects_Iteration.md
     - Type: Lesson
-      URL: https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/04_Functions.md
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/04_Functions.md
     - Type: Lesson
-      URL: https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/05_Errors.md
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/05_Errors.md
     - Type: Lesson
-      URL: https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/06_Strings.md
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/06_Strings.md
 - ContainerType: Unit
   Title: Bonus
   Description: https://github.com/gSchool/fs-precourse/blob/learn/units/bonus.md
