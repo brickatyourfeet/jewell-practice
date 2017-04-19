@@ -1,4 +1,4 @@
-## Atom
+# Atom
 
 **Duration:** About 1 hour
 
@@ -10,7 +10,7 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 [Learn the Atom Editor][learn-atom]
 
-[![](images/atom.png)][learn-atom]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ErpALj-8l5M?list=PLl4aJLa4PetCQcCEL0FvCh3L1SVf-nNSU" frameborder="0" allowfullscreen></iframe>
 
 ### Self-assessment
 
@@ -59,7 +59,30 @@ Take a moment to think about how you would answer the following questions. Then 
 
 ### Conclusion
 
-Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Atom. You're now ready to build a website.
+### !challenge
+* type: multiple-choice
+* id: e2dd59ea-e437-49c4-accf-7f0b8b182148
+* title: Atom
+
+##### !question
+### Did you complete this lesson?
+
+Please answer honestly 🙂  Having accurate data going into class can help make your experience better!
+##### !end-question
+
+##### !options
+* Yes
+* No
+##### !end-options
+
+##### !answer
+Yes
+##### !end-answer
+
+##### !explanation
+🎊 Congratulations! 🎉  By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Atom. You're now ready to build a website.
+##### !end-explanation
+### !end-challenge
 
 [atom]: https://atom.io/
 [learn-atom]: https://www.youtube.com/watch?v=ErpALj-8l5M&list=PLl4aJLa4PetCQcCEL0FvCh3L1SVf-nNSU
