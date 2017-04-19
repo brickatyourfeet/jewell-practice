@@ -39,11 +39,11 @@ After you complete this lesson, add the appropriate CSS to create two columns fo
 
 When you're finished, we'd like to take a look at your work. Please use the following steps to submit your website.
 
-1. On GitHub, navigate to your fork of this repo (which you created in Section 6 HTML).
+1. On GitHub, navigate to your fork of the `wdi-precourse-drills` repo (which you created in the HTML lesson).
 	* Your fork will have the URL with your username in it:
-	`https://github.com/your_username_here/fs-precourse`
+	`https://github.com/your_username_here/wdi-precourse-drills`
 
-1. On your `Fork` of this repo on GitHub, (Make sure your name is in the top left of the page.) click the **Upload Files** button
+1. On your fork, make sure your name is in the top left of the page and click the **Upload Files** button
 
 1. Drag and drop the folder you'd like to upload.
 

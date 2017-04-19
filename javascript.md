@@ -29,9 +29,9 @@ Start off by creating a `hangman.html` file and embed the author's blueprint cod
 
 Run the program often to make sure everything works as you expect. When you're finished, we'd like to take a look at your work. Please use the following steps to submit your game.
 
-1. On GitHub, navigate to your fork of this repo (which you created in Section 6 HTML).
+1. On GitHub, navigate to your fork of the `wdi-precourse-drills` repo (which you created in the HTML lesson).
 	* Your fork will have the URL with your username in it:
-	`https://github.com/your_username_here/fs-precourse`
+	`https://github.com/your_username_here/wdi-precourse-drills`
 
 1. Click **Upload files**
 

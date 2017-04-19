@@ -64,7 +64,7 @@ When you're finished, we'd like to take a look at your work. Please use the foll
 	* You may need to click your username to create the `Fork` on your account.
 	* `Forking` is a github concept that allows you to make an exact copy of a repository on your own account.
 
-1. On your `Fork` of this repo on GitHub, (Make sure your name is in the top left of the page.) click the **Upload Files** button
+1. On your fork, make sure your name is in the top left of the page and click the **Upload Files** button
 
 1. Drag and drop the folder you'd like to upload.
 
