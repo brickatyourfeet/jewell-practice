@@ -6,11 +6,9 @@ Being proficient in typing is incredibly important yet often overlooked. Being a
 
 In this lesson, your objective is to demonstrate competency with quickly typing common English words. To complete this objective, please open up the Typing Speed Test in Chrome and complete the self-assessment at the end of this lesson.
 
-[Typing Speed Test][typing_speed_test]
-
-[![](images/typing_speed_test.png)][typing_speed_test]
-
-[typing_speed_test]: http://typing-speed-test.aoeu.eu/?lang=en
+<a href="http://typing-speed-test.aoeu.eu/?lang=en" target="_blank">
+  <img src="images/typing_speed_test.png" />
+</a>
 
 ### Self-assessment
 
