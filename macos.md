@@ -75,7 +75,7 @@ Take a moment to think about how you would answer the following questions. Then 
 ##### !question
 ### Did you complete this lesson?
 
-Answer below!
+Please answer honestly 🙂  Having accurate data going into class can help make your experience better!
 ##### !end-question
 
 ##### !options

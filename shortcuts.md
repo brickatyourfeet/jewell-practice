@@ -8,9 +8,7 @@ In this chapter, your objective is to demonstrate competency with the most commo
 
 If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this video once you obtain it.
 
-[25 Basic Mac Keyboard Shortcuts][keyboard-shortcuts]
-
-[![](images/shortcuts.png)][keyboard-shortcuts]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AdMuZses96Q" frameborder="0" allowfullscreen></iframe>
 
 ### Self-assessment
 
@@ -74,6 +72,27 @@ What's the keyboard shortcut for the following screenshot actions?
 
 ### Conclusion
 
-Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the most common keyboard shortcuts on macOS. Take a moment to pat yourself on the back. :)
+### !challenge
+* type: multiple-choice
+* id: 0d2b5eba-1910-4279-98b3-94a6ea3c6147
+* title: Shortcuts
 
-[keyboard-shortcuts]: https://www.youtube.com/watch?v=AdMuZses96Q
+##### !question
+### Did you complete this lesson?
+
+Please answer honestly 🙂  Having accurate data going into class can help make your experience better!
+##### !end-question
+
+##### !options
+* Yes
+* No
+##### !end-options
+
+##### !answer
+Yes
+##### !end-answer
+
+##### !explanation
+🎊 Congratulations! 🎉  By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the most common keyboard shortcuts on macOS. Take a moment to pat yourself on the back 🙂
+##### !end-explanation
+### !end-challenge
