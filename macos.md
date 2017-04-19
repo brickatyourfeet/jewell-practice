@@ -10,9 +10,7 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 **TIP:** While this video demonstrates usage of an older version macOS called Yosemite, the information is not terribly outdated.
 
-[Learn the Mac in Under 90 Minutes 2015 Yosemite Edition][learn-macos]
-
-[![](images/macos.png)][learn-macos]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wSPisJXyjso" frameborder="0" allowfullscreen></iframe>
 
 ### Self-assessment
 
@@ -70,5 +68,3 @@ Take a moment to think about how you would answer the following questions. Then 
 ### Conclusion
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the graphical interface of macOS. You're well on your way to becoming a professional web developer.
-
-[learn-macos]: https://www.youtube.com/watch?v=wSPisJXyjso

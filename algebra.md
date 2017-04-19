@@ -121,6 +121,40 @@ Take a moment to think about how you would answer the following questions. Then 
 - Simplify the polynomial `4x² - 5 + x² + 11`.
 - Simplify the polynomial `-x + 1 - 7x² + 3x - 6 - 2x²`.
 
+### !challenge
+
+* type: multiple-choice
+* id: cb2125f3-2080-45d1-ab15-dc161eb686ad
+* title: Algebra
+
+##### !question
+### How much of this lesson did you complete?
+##### !end-question
+
+##### !options
+
+
+* Your
+* Options
+* Here
+
+
+##### !end-options
+
+##### !answer
+
+The _text_ of the answer here
+
+##### !end-answer
+
+##### !explanation
+
+explanation shows up after the student answers
+
+##### !end-explanation
+
+### !end-challenge
+
 ### Conclusion
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the basics of algebra. You're ready to start building a dynamic website.
