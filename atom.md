@@ -1,16 +1,16 @@
-## Atom
+# Atom
 
 **Duration:** About 1 hour
 
 [Atom][atom] is a text editor from GitHub that's modern, approachable, yet hackable to the core. It's quickly becoming the text editor of choice for many web developers because it's easy to use, provides syntax highlighting and tab completions, and can be customized to do anything without ever touching a config file.
 
-In this chapter, your objective is to demonstrate competency with Atom. To complete this objective, please follow along with the videos found below and complete the self-assessment at the end of this chapter. If you're already familiar with Atom, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
+In this lesson, your objective is to demonstrate competency with Atom. To complete this objective, please follow along with the videos found below and complete the self-assessment at the end of this lesson. If you're already familiar with Atom, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
 If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this video once you obtain it.
 
 [Learn the Atom Editor][learn-atom]
 
-[![](images/atom.png)][learn-atom]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ErpALj-8l5M?list=PLl4aJLa4PetCQcCEL0FvCh3L1SVf-nNSU" frameborder="0" allowfullscreen></iframe>
 
 ### Self-assessment
 
@@ -59,7 +59,30 @@ Take a moment to think about how you would answer the following questions. Then 
 
 ### Conclusion
 
-Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Atom. You're now ready to build a website.
+### !challenge
+* type: multiple-choice
+* id: e2dd59ea-e437-49c4-accf-7f0b8b182148
+* title: Atom
+
+##### !question
+### Did you complete this lesson?
+
+Please answer honestly 🙂  Having accurate data going into class can help make your experience better!
+##### !end-question
+
+##### !options
+* Yes
+* No
+##### !end-options
+
+##### !answer
+Yes
+##### !end-answer
+
+##### !explanation
+🎊 Congratulations! 🎉  By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Atom. You're now ready to build a website.
+##### !end-explanation
+### !end-challenge
 
 [atom]: https://atom.io/
 [learn-atom]: https://www.youtube.com/watch?v=ErpALj-8l5M&list=PLl4aJLa4PetCQcCEL0FvCh3L1SVf-nNSU

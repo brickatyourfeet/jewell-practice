@@ -1,4 +1,4 @@
-## Algebra Basics
+# Algebra Basics
 
 **Duration:** About 2 hours
 
@@ -9,7 +9,7 @@
 - When's the best day of the week to travel from San Francisco to Seattle?
 - How long will it take a social network to gain 100,000 active users?
 
-In this chapter, your objective is to demonstrate competency with the basics of algebra. To complete this objective, please follow along with the videos found below and complete the self-assessment at the end of this chapter. If you're already familiar with algebra, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
+In this lesson, your objective is to demonstrate competency with the basics of algebra. To complete this objective, please follow along with the videos found below and complete the self-assessment at the end of this lesson. If you're already familiar with algebra, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
 [Math Antics - Algebra Basics][math-antics]
 
@@ -123,6 +123,29 @@ Take a moment to think about how you would answer the following questions. Then 
 
 ### Conclusion
 
-Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the basics of algebra. You're ready to start building a dynamic website.
+### !challenge
+* type: multiple-choice
+* id: 235569a6-84a3-46a7-8806-f3a5812626f2
+* title: Algebra
+
+##### !question
+### Did you complete this lesson?
+
+Please answer honestly 🙂  Having accurate data going into class can help make your experience better!
+##### !end-question
+
+##### !options
+* Yes
+* No
+##### !end-options
+
+##### !answer
+Yes
+##### !end-answer
+
+##### !explanation
+🎊 Congratulations! 🎉  By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the basics of algebra. You're ready to start building a dynamic website.
+##### !end-explanation
+### !end-challenge
 
 [math-antics]: https://www.youtube.com/watch?v=NybHckSEQBI&index=1&list=PLUPEBWbAHUszT_GebJK23JHdd_Bss1N-G

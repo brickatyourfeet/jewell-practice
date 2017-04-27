@@ -1,16 +1,14 @@
-## Slack
+# Slack
 
 **Duration:** About 1 hour
 
 [Slack][slack] is a messaging application for teams. It brings team communication together into one simple place. Slack is popular with web development teams because conversations are organized into topic channels and direct messages. This allows you to communicate with teammates without cluttering up your email inbox. You can even share files and code snippets making collaboration more productive, transparent, and efficient.
 
-In this chapter, your objective is to demonstrate competency with Slack. To complete this objective, please follow along with the videos found below and complete the self-assessment at the end of this chapter. If you're already familiar with Slack, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
+In this lesson, your objective is to demonstrate competency with Slack. To complete this objective, please follow along with the videos found below and complete the self-assessment at the end of this lesson. If you're already familiar with Slack, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
 If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this video once you obtain it.
 
-[Slack Video Guides][slack-guides]
-
-[![](images/slack.png)][slack-guides]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9RJZMSsH7-g?list=PLWlXaxtQ7fUb1WqLJDqJFGQsAXU7CjoGz" frameborder="0" allowfullscreen></iframe>
 
 ### Self-assessment
 
@@ -71,7 +69,29 @@ Once you've checked your answers, take a moment to complete the following tasks.
 
 ### Conclusion
 
-Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Slack. Remember, everyone needs help from time to time. If you're feeling stuck, help is only a Slack message away.
+### !challenge
+* type: multiple-choice
+* id: f8e8c40d-be70-4cd4-ba5c-694d36e7c29e
+* title: Slack
+
+##### !question
+### Did you complete this lesson?
+
+Please answer honestly 🙂  Having accurate data going into class can help make your experience better!
+##### !end-question
+
+##### !options
+* Yes
+* No
+##### !end-options
+
+##### !answer
+Yes
+##### !end-answer
+
+##### !explanation
+🎊 Congratulations! 🎉  By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Slack. Remember, everyone needs help from time to time. If you're feeling stuck, help is only a Slack message away.
+##### !end-explanation
+### !end-challenge
 
 [slack]: https://slack.com/
-[slack-guides]: https://www.youtube.com/watch?v=9RJZMSsH7-g&list=PLWlXaxtQ7fUb1WqLJDqJFGQsAXU7CjoGz
