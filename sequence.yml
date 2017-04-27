@@ -66,7 +66,7 @@
     - Type: Exercise
       URL: https://github.com/gSchool/javascript-drills/blob/master/data_structures/strings_1.md
 - ContainerType: Unit
-  Title: Intro to Programming
+  Title: Intro to Programming: Design Patterns
   Description: https://github.com/gSchool/fs-precourse/blob/master/units/programming.md
   Contents:
     - Type: Lesson
