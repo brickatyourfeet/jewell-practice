@@ -22,27 +22,65 @@
     - Type: Lesson
       URL: https://github.com/gSchool/fs-precourse/blob/learn/studying_learning.md
 - ContainerType: Unit
-  Title: Intro to JavaScript
-  Description: https://github.com/gSchool/fs-precourse/blob/learn/units/javascript.md
+  Title: JavaScript Data and Control Flow
+  Description: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/README.md
   Contents:
-    - Type: Lesson
-      URL: https://github.com/gSchool/fs-precourse/blob/learn/javascript.md
     - Type: Lesson
       URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/README.md
     - Type: Lesson
       URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/00_Introduction_to_JavaScript.md
     - Type: Lesson
       URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/01_Variables_and_DataTypes.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/javascript-drills/blob/master/data_types/numbers_1.md
     - Type: Lesson
       URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/02_Control_Flow.md
-    - Type: Lesson
-      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/03_Arrays_Objects_Iteration.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/javascript-drills/blob/master/data_types/booleans_and_comparison_1.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/javascript-drills/blob/master/data_types/strings_1.md
     - Type: Lesson
       URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/04_Functions.md
     - Type: Lesson
       URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/05_Errors.md
+- ContainerType: Unit
+  Title: JavaScript Data Structures
+  Description: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/03_Data_Structures/README.md
+  Contents:
+    - Type: Lesson
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/03_Data_Structures/Arrays.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/javascript-drills/blob/master/data_structures/arrays_1.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/03_Data_Structures/Objects.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/03_Data_Structures/References_and_Comparison.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/03_Data_Structures/Traversal.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/javascript-drills/blob/master/data_structures/objects_1.md
     - Type: Lesson
       URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/10_Syntax/06_Strings.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/javascript-drills/blob/master/data_types/strings_2.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/javascript-drills/blob/master/data_structures/strings_1.md
+- ContainerType: Unit
+  Title: Intro to Programming
+  Description: https://github.com/gSchool/fs-precourse/blob/master/units/programming.md
+  Contents:
+    - Type: Lesson
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/20_Functional_Patterns/04_Accumulator_Pattern/README.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/javascript-drills/blob/master/data_structures/accumulator_arrays.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/20_Functional_Patterns/04_Accumulator_Pattern/Choosing%20Initial%20Values.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/20_Functional_Patterns/04_Accumulator_Pattern/Iterating.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/javascript-curriculum/blob/precourse/20_Functional_Patterns/04_Accumulator_Pattern/Altering%20the%20Accumulator.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/javascript-drills/blob/master/assessments/pretest/post-test.md
 - ContainerType: Unit
   Title: Solutions
   Description: https://github.com/gSchool/fs-precourse/blob/learn/units/solutions.md
