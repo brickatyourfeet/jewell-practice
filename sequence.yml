@@ -1,10 +1,15 @@
 ---
 - ContainerType: Unit
-  Title: Web-Development-Immersive-Precourse
+  Title: Web Development Immersive Precourse
   Description: https://github.com/gSchool/fs-precourse/blob/sea_test/README.md
-  Contents:
-  - Type: Lesson
-    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/macos.md
+
+- ContainerType: Unit
+  Title: Mac OSX
+  Description:
+  Contents: https://github.com/gSchool/fs-precourse/blob/sea_test/macos.md
+
+  - Type: Exercise
+    URL: 
 
   - Type: Lesson
     URL: https://github.com/gSchool/fs-precourse/blob/sea_test/shortcuts.md
