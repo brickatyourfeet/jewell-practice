@@ -18,22 +18,6 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 Take a moment to think about how you would answer the following questions. Then write down both the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/macos.md) and see how you fared.
 
-#### The Finder
-
-1. What's the Finder?
-1. Where are applications installed?
-1. What's the Desktop?
-1. Where are documents stored?
-1. Where are downloads stored?
-1. What's the Home folder?
-
-#### The Dock
-
-1. What's the Dock?
-1. How do you add applications to the Dock?
-1. How do you remove applications from the Dock?
-1. How do you move applications around inside the Dock?
-1. What does the dot under the application icon mean?
 
 #### The Menu Bar
 
