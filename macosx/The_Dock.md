@@ -1,5 +1,11 @@
 #### The Dock
 
+1. What's the Dock?
+1. How do you add applications to the Dock?
+1. How do you remove applications from the Dock?
+1. How do you move applications around inside the Dock?
+1. What does the dot under the application icon mean?
+
 ### !challenge
 * type: paragraph
 * id: macosx-doc-01
@@ -62,21 +68,7 @@ Click and drag the icon to where you would like it to go and then release the cl
 * title: Question 5
 
 ##### !question
-What is the Finder?
-##### !end-question
-
-##### !explanation
-It's how your files are organized on a Mac. It's equivalent to Window Explorer, or My Computer, on Windows.
-##### !end-explanation
-### !end-challenge
-
-### !challenge
-* type: paragraph
-* id: macosx-doc-05
-* title: Question 5
-
-##### !question
-What is the Finder?
+What does the dot under the application icon mean?
 ##### !end-question
 
 ##### !explanation
