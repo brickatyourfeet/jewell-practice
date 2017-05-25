@@ -1,10 +1,4 @@
-#### The Dock
-
-1. What's the Dock?
-1. How do you add applications to the Dock?
-1. How do you remove applications from the Dock?
-1. How do you move applications around inside the Dock?
-1. What does the dot under the application icon mean?
+# The Dock
 
 ### !challenge
 * type: paragraph
