@@ -25,11 +25,11 @@
 
 - ContainerType: Unit
   Title: Keyboard Shortcuts
-  Description: https://github.com/gSchool/fs-precourse/blob/sea_test/keyboardShortcuts/README.md
+  Description: https://github.com/gSchool/fs-precourse/blob/sea_test/shortcuts/README.md
   Contents:
 
   - Type: Exercise
-    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/macosx/The_Finder.md
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/shortcuts/Universal.md
 
 
   # - Type: Lesson

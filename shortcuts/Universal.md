@@ -1,4 +1,4 @@
-#### Universal
+# Universal
 
 What are the keyboard shortcuts for the following universal actions?
 
