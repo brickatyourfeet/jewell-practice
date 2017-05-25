@@ -19,16 +19,6 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 Take a moment to think about how you would answer the following questions. Then write down both the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/macos.md) and see how you fared.
 
 
-#### The Menu Bar
-
-1. What's the Apple Menu?
-1. What information is available when selecting "About This Mac"?
-1. What does selecting "Force Quit" do?
-1. What's the difference between Sleep, Restart, Shutdown, and Log Out?
-1. What's the Notifications Center?
-1. What's Spotlight?
-1. How do you connect to Wi-Fi networks?
-
 #### System Preferences
 
 1. What are the System Preferences?
