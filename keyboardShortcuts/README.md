@@ -1,5 +1,3 @@
-#### [⇐ Previous](macos.md) | [Next ⇒](chrome.md)
-
 ## Keyboard Shortcuts
 
 **Duration:** About 30 minutes
@@ -78,6 +76,5 @@ What's the keyboard shortcut for the following screenshot actions?
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the most common keyboard shortcuts on macOS. Take a moment to pat yourself on the back. :)
 
-#### [⇐ Previous](macos.md) | [Next ⇒](chrome.md)
 
 [keyboard-shortcuts]: https://www.youtube.com/watch?v=AdMuZses96Q

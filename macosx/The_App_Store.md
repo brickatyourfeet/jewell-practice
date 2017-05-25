@@ -24,6 +24,6 @@ Where can you download updates for applications and macOS itself?
 ##### !end-question
 
 ##### !explanation
-In the Updates tab if the App Store.
+In the Updates tab in the App Store.
 ##### !end-explanation
 ### !end-challenge
