@@ -72,8 +72,8 @@ It's how your files are organized on a Mac. It's equivalent to Window Explorer, 
 
 ### !challenge
 * type: paragraph
-* id: macosx-doc-01
-* title: Question 1
+* id: macosx-doc-05
+* title: Question 5
 
 ##### !question
 What is the Finder?
