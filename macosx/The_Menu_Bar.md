@@ -31,7 +31,7 @@ The operating system version and details about the computer like its processor, 
 ### !challenge
 * type: paragraph
 * id: macosx-menu-bar-03
-* title: Question 2
+* title: Question 3
 
 ##### !question
 What does selecting "Force Quit" do?
@@ -45,7 +45,7 @@ It opens a window that shows you what is currently running and allows you to man
 ### !challenge
 * type: paragraph
 * id: macosx-menu-bar-04
-* title: Question 2
+* title: Question 4
 
 ##### !question
 What's the difference between Sleep, Restart, Shutdown, and Log Out?
@@ -62,7 +62,7 @@ What's the difference between Sleep, Restart, Shutdown, and Log Out?
 ### !challenge
 * type: paragraph
 * id: macosx-menu-bar-05
-* title: Question 2
+* title: Question 5
 
 ##### !question
 What's the Notifications Center?
@@ -76,7 +76,7 @@ It's a menu bar that can be accessed by clicking the bulleted list icon in the t
 ### !challenge
 * type: paragraph
 * id: macosx-menu-bar-06
-* title: Question 2
+* title: Question 6
 
 ##### !question
 What's Spotlight?
@@ -90,7 +90,7 @@ A search bar that allows you to search for any file on your computer or even on 
 ### !challenge
 * type: paragraph
 * id: macosx-menu-bar-07
-* title: Question 2
+* title: Question 7
 
 ##### !question
 How do you connect to Wi-Fi networks?

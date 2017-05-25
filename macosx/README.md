@@ -19,22 +19,6 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 Take a moment to think about how you would answer the following questions. Then write down both the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/macos.md) and see how you fared.
 
 
-#### System Preferences
-
-1. What are the System Preferences?
-1. Where are the settings for showing the scroll bars?
-1. Where are the settings for choosing a different Desktop background?
-1. Where are the settings for allowing apps to be downloaded from the app store?
-1. Where are the settings for preventing Spotlight from searching folders?
-1. Where are the settings for adjusting the when the display turns off?
-1. Where are the settings for gesturing with the trackpad?
-1. What happens when you click the red, yellow, and green buttons at the top left of every window?
-1. How do you turn off fullscreen mode?
-1. Where are the settings for configuring a printer?
-1. Where are the settings for enabling iCloud features?
-1. Where are the settings for managing user accounts?
-1. Where are the settings for downloading updates from the App Store?
-1. Where are the settings for backing up your computer with Time Machine?
 
 #### The App Store
 
