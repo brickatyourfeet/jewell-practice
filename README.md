@@ -1,14 +1,12 @@
-#### [⇐ Previous](bonus.md) | [Next ⇒](macos.md)
-
-## Galvanize Web Development Immersive Precourse
+# Galvanize Web Development Immersive Precourse
 
 Welcome to Galvanize's Web Development Immersive!
 
-You've been accepted into this program because we believe you have the potential to become an awesome web developer. With our extraordinary team as your guide and our practical curriculum as your map, your journey toward mastery of this challenging yet rewarding craft begins right now.
+You've been accepted into this program because we believe you have the potential to become an awesome web developer. With our extraordinary team as your guide and our practical curriculum as your map, your journey toward sea_testy of this challenging yet rewarding craft begins right now.
 
 Like all journeys, preparation will directly affect your level of success in this course. You'll climb mountains of intricate and challenging concepts that'll test your grasp of the fundamentals of web development. The better prepared you are for this course, the easier your climb to the top will be.
 
-To help you prepare, we've developed this precourse for you to complete before the first day of class. Each chapter will introduce a core concept that'll be invaluable to your journey toward mastery of web development. If you find yourself needing a bit of help with the precourse, as students often do, please don't hesitate to contact us via [email][contact] or on your cohort's Slack channel. Congratulations and welcome to your next adventure!
+To help you prepare, we've developed this precourse for you to complete before the first day of class. Each chapter will introduce a core concept that'll be invaluable to your journey toward sea_testy of web development. If you find yourself needing a bit of help with the precourse, as students often do, please don't hesitate to contact us via [email][contact] or on your cohort's Slack channel. Congratulations and welcome to your next adventure!
 
 The Galvanize Web Development Immersive Team
 
@@ -52,7 +50,6 @@ While the title may suggest otherwise, this book is for anyone who wants to lear
 
 You can pick up JavaScript for Kids from a number of bookstores, though you'll receive a **40% discount** by using the `JAVASCRIPTKIDS40` coupon code when purchasing directly through [No Starch Press][javascript-kids].
 
-#### [⇐ Previous](bonus.md) | [Next ⇒](macos.md)
 
 [contact]: mailto:fs.all@galvanize.com
 [genius]: https://www.apple.com/retail/geniusbar/

@@ -240,7 +240,7 @@ If you hold your work to an impossible standard and refuse to complete projects 
 
 ##### Why should you be satisfied with small improvements in your work?
 
-Even if you are only improving a tiny bit each time you do something, that progress over time will lead to mastery of a task. Skill and knowledge come through countless iteration, not through executing perfectly on the first iteration.
+Even if you are only improving a tiny bit each time you do something, that progress over time will lead to sea_testy of a task. Skill and knowledge come through countless iteration, not through executing perfectly on the first iteration.
 
 ##### Why is it counterintuitive to compare your work to the work of others?
 

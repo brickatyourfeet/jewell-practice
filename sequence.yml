@@ -1,16 +1,34 @@
 ---
 - ContainerType: Unit
   Title: Web-Development-Immersive-Precourse
-  Description: https://github.com/gSchool/fs-precourse/blob/master/README.md
+  Description: https://github.com/gSchool/fs-precourse/blob/sea_test/README.md
   Contents:
   - Type: Lesson
-    URL: https://github.com/gSchool/fs-precourse/blob/master/macos.md
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/macos.md
 
   - Type: Lesson
-    URL: https://github.com/gSchool/fs-precourse/blob/master/shortcuts.md
-
-  - Type: Exercise
-    URL: https://github.com/gSchool/fs-precourse/blob/master/chrome.md
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/shortcuts.md
 
   - Type: Lesson
-    URL: https://github.com/gSchool/fs-precourse/blob/master/typing.md
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/chrome.md
+
+  - Type: Lesson
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/typing.md
+
+  - Type: Lesson
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/slack.md
+
+  - Type: Lesson
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/atom.md
+
+  - Type: Lesson
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/html_css.md
+
+  - Type: Lesson
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/algebra.md
+
+  - Type: Lesson
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/studying_learning.md
+
+  - Type: Lesson
+    URL: https://github.com/gSchool/fs-precourse/blob/sea_test/bonus.md
