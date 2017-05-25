@@ -16,36 +16,6 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/shortcuts.md) and see how you fared.
 
-#### Universal
-
-What's the keyboard shortcut for the following universal actions?
-
-- Cut
-- Copy
-- Paste
-- Select all
-- Undo
-- Redo
-- Toggle Spotlight
-
-#### Applications
-
-What's the keyboard shortcut for the following application actions?
-
-- Switch to the next application
-- Switch to the next window
-- Close a window
-- Quit the application
-- Open the preferences
-
-#### Documents
-
-What's the keyboard shortcut for the following document actions?
-
-- Create a new document
-- Save a document
-- Open a document
-- Print a document
 
 #### Finder
 
