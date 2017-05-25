@@ -32,8 +32,8 @@ Command ⌘ + S
 
 ### !challenge
 * type: paragraph
-* id: shortcuts-documents-02
-* title: Question 2
+* id: shortcuts-documents-03
+* title: Question 3
 
 ##### !question
 Open a document
@@ -46,8 +46,8 @@ Command ⌘ + O
 
 ### !challenge
 * type: paragraph
-* id: shortcuts-documents-02
-* title: Question 2
+* id: shortcuts-documents-04
+* title: Question 4
 
 ##### !question
 Print a document
