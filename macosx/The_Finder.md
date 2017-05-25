@@ -11,6 +11,7 @@
 
 * type: paragraph
 * id: macosx-finder-01
+* title: Question 1
 
 ##### !question
 What's the Finder?
