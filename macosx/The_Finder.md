@@ -9,7 +9,7 @@
 
 ### !challenge
 
-* type: short-answer
+* type: paragraph
 * id: macosx-finder-01
 
 ##### !question
