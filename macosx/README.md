@@ -20,11 +20,6 @@ Take a moment to think about how you would answer the following questions. Then 
 
 
 
-#### The App Store
-
-1. What's the App Store?
-1. Where can you download updates for applications and macOS itself?
-
 ### Conclusion
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the graphical interface of macOS. You're well on your way to becoming a professional web developer.
