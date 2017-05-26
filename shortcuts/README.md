@@ -18,14 +18,7 @@ Take a moment to think about how you would answer the following questions. Then 
 
 
 
-#### Cursor
 
-What's the keyboard shortcut for the following cursor actions?
-
-- Move the cursor all the way to the left
-- Move the cursor all the way to the right
-- Move the cursor all the way to the top
-- Move the cursor all the way to the bottom
 
 #### Screenshot
 

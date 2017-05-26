@@ -1,4 +1,4 @@
-#### Finder
+# Finder
 
 What's the keyboard shortcut for the following Finder actions?
 
