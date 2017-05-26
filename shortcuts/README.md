@@ -17,17 +17,6 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/shortcuts.md) and see how you fared.
 
 
-
-
-
-#### Screenshot
-
-What's the keyboard shortcut for the following screenshot actions?
-
-- Take a screenshot of the entire screen
-- Take a screenshot of the custom area
-- Take a screenshot of a single window
-
 ### Conclusion
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the most common keyboard shortcuts on macOS. Take a moment to pat yourself on the back. :)
