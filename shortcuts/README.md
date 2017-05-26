@@ -17,13 +17,6 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/shortcuts.md) and see how you fared.
 
 
-#### Finder
-
-What's the keyboard shortcut for the following Finder actions?
-
-- Create a new folder
-- Delete a file or folder
-- Empty the trash
 
 #### Cursor
 
