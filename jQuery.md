@@ -20,6 +20,12 @@ Code School has created an amazing introduction to jQuery: [Try jQuery][21]. Wit
 ### Practice with jQuery
 More practice is always beneficial. Code Academy's [jQuery Track][31] will supplement your current knowledge of jQuery.
 
+[1]: #the-value-of-jquery
+[2]: #try-jquery
+[21]: http://try.jquery.com/
+[3]: #practice-with-jquery
+[31]: http://www.codecademy.com/en/tracks/jquery
+
 # Conclusion
 
 ### !challenge
@@ -49,8 +55,4 @@ You'll now apply everything you've learned in the Personal Site.
 ##### !end-explanation
 ### !end-challenge
 
-[1]: #the-value-of-jquery
-[2]: #try-jquery
-[21]: http://try.jquery.com/
-[3]: #practice-with-jquery
-[31]: http://www.codecademy.com/en/tracks/jquery
+
