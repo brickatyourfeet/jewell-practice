@@ -80,6 +80,27 @@ When you're finished, we'd like to take a look at your work. Please use the foll
 
 ![](images/github_upload.gif)
 
+[learn-html-css]: http://learn.shayhowe.com/html-css/building-your-first-web-page/
+
+[1]: #1-of-4-markup
+[11]: http://learn.shayhowe.com/html-css/building-your-first-web-page/
+[12]: http://learn.shayhowe.com/html-css/creating-lists/
+[13]: http://learn.shayhowe.com/html-css/organizing-data-with-tables/
+[14]: html-images/imdb_hackers_html.png
+[15]: http://learn.shayhowe.com/html-css/getting-to-know-html/#creating-hyperlinks
+
+[2]: #2-of-4-hyperlinks
+[21]: http://learn.shayhowe.com/html-css/getting-to-know-html/#creating-hyperlinks
+[22]: http://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/
+
+[3]: #3-of-4-rich-media
+[31]: http://learn.shayhowe.com/html-css/adding-media/
+[32]: html-images
+
+[4]: $4-of-4-push-to-github
+[41]: https://help.github.com/articles/fork-a-repo/
+[42]: https://help.github.com/articles/using-pull-requests/
+
 ## Conclusion
 
 ### !challenge
@@ -102,23 +123,4 @@ https://github.com/gSchool/wdi-precourse-drills/pull/22
 ##### !end-explanation
 ### !end-challenge
 
-[learn-html-css]: http://learn.shayhowe.com/html-css/building-your-first-web-page/
 
-[1]: #1-of-4-markup
-[11]: http://learn.shayhowe.com/html-css/building-your-first-web-page/
-[12]: http://learn.shayhowe.com/html-css/creating-lists/
-[13]: http://learn.shayhowe.com/html-css/organizing-data-with-tables/
-[14]: html-images/imdb_hackers_html.png
-[15]: http://learn.shayhowe.com/html-css/getting-to-know-html/#creating-hyperlinks
-
-[2]: #2-of-4-hyperlinks
-[21]: http://learn.shayhowe.com/html-css/getting-to-know-html/#creating-hyperlinks
-[22]: http://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/
-
-[3]: #3-of-4-rich-media
-[31]: http://learn.shayhowe.com/html-css/adding-media/
-[32]: html-images
-
-[4]: $4-of-4-push-to-github
-[41]: https://help.github.com/articles/fork-a-repo/
-[42]: https://help.github.com/articles/using-pull-requests/
