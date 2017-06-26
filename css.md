@@ -52,6 +52,16 @@ When you're finished, we'd like to take a look at your work. Please use the foll
 1. Click the **Commit changes** button
 	* This will upload your files to your copy of the repo on github
 
+[1]: #1-of-3-css
+[11]: http://learn.shayhowe.com/html-css/getting-to-know-css/
+[12]: http://flukeout.github.io/
+
+[2]: #2-of-3-css
+[21]: http://learn.shayhowe.com/html-css/positioning-content/
+
+[3]: #3-of-3-push-to-github
+[31]: https://dragon-innovation-production.s3.amazonaws.com/2013/10/17/16/18/30/120/FiestaFiveAnimation2.gif
+
 ## Conclusion
 
 ### !challenge
@@ -74,12 +84,4 @@ https://github.com/gSchool/wdi-precourse-drills/pull/22
 ##### !end-explanation
 ### !end-challenge
 
-[1]: #1-of-3-css
-[11]: http://learn.shayhowe.com/html-css/getting-to-know-css/
-[12]: http://flukeout.github.io/
 
-[2]: #2-of-3-css
-[21]: http://learn.shayhowe.com/html-css/positioning-content/
-
-[3]: #3-of-3-push-to-github
-[31]: https://dragon-innovation-production.s3.amazonaws.com/2013/10/17/16/18/30/120/FiestaFiveAnimation2.gif
